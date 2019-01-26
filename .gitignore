@@ -79,3 +79,5 @@ DerivedDataCache/*
 AIGame/Intermediate/CachedAssetRegistry\.bin
 
 AIGame/Saved/*
+
+AIGame/Intermediate/*
