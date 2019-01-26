@@ -76,12 +76,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-AIGame/Saved/Config/CrashReportClient/UE4CC-Windows-7654A9D2476543F3D118EE93CB5DBCEF/CrashReportClient\.ini
-
 AIGame/Intermediate/CachedAssetRegistry\.bin
 
 AIGame/Saved/*
-
-AIGame/Saved/Config/Windows/
-
-AIGame/Saved/
