@@ -81,3 +81,5 @@ AIGame/Intermediate/CachedAssetRegistry\.bin
 AIGame/Saved/*
 
 AIGame/Intermediate/*
+
+AIGame/Build/WindowsNoEditor/FileOpenOrder/
